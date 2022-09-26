@@ -164,6 +164,10 @@ main{
     gap: 3rem;
     margin-bottom: 2rem;
   }
+
+  
+  /* moblie view */
+
   @media screen and (max-width:820px) {
     
     body,html{
